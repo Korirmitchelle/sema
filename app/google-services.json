@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "814027115619",
+    "firebase_url": "https://sema-3a158.firebaseio.com",
+    "project_id": "sema-3a158",
+    "storage_bucket": "sema-3a158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814027115619:android:23b87abd52250b45",
+        "android_client_info": {
+          "package_name": "com.example.mitchelle.sema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814027115619-9tie60h3ajhbuc2ptgh8b8a73vh5705j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mitchelle.sema",
+            "certificate_hash": "f0f4a3abc3533dc0d55ff061f7304bcab889e211"
+          }
+        },
+        {
+          "client_id": "814027115619-6r2e98ab5ekqf42vrkd7htkcfkraq28p.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "814027115619-agf0hpgrof35su4rgp5l0clrhqehmg6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaGDKRsBeEScBj1sE9NqOu4dCNHSP26NU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814027115619-6r2e98ab5ekqf42vrkd7htkcfkraq28p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
