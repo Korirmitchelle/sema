@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_07cfd05fde5775f196f372a511848c85c0189747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_4b3e6316debd38a3766875b37a0678e4514532bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.2.0_5b91069bf13384200e1c6bb48326cee0b58d3d06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.8.0_9fec5b33a43a116b09ef1b4f227fd3e6bf383114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.2_e380bfe92290076b29cdf277f08e1f38106cee67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_a1991768b4415076e12186be8eb837674c4e18f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.8.0_c01996daad9809318f2ef2222c88278649d628c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.0.2_5f3ccc6376f0161b5b31e339f25b9b48451921cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_da6307562d9843dfc1095c6141208388fd333ba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/customtabs/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-27.0.2_996b1149f78b6de0d2499fcd65adae8351511ed0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.3_7902e8fcda55cff44aa75eb5fc76ef9d80757957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="49d6e981cef2eb91ff98aa6004fadb3bd757790d">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-core-4.31.0_97566919a89c38ce54783d1e3e5d2720a1cd6343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_935728de2971b60900cc64a7fe9525a1415d8eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/.gradle/caches/modules-2/files-2.1/org.ocpsoft.prettytime/prettytime/3.2.7.Final/4b216ebcf284752a40e11c39c2ea62bc45528c33/prettytime-3.2.7.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b216ebcf284752a40e11c39c2ea62bc45528c33">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/prettytime-3.2.7.Final_822c8b020ca25303106cf152a7a167f28bbe0b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.8.0_11c033044d8d3b47084dec5660bdca92ed11d31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_9a5a58233116fd85d1e0c31bc94526ff15ae9c79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.0.2_ccfe6141d30b264b39a6f4abec13a58566972edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="821200fa3e07f93d0ae66e4a5917db8bac69dfe1">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-places-4.31.0_bb228093b34c1741346d673e145a5d356411edc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.8.0_6f323fc3bf417165929bd5960d31d3ec59bcb063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/common-1.0.0_3bb2f07ea2100c7ae210afa2c73db882a3734210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.8.0_bfc05442eb81252cc09646687e00dd03468e6720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-applinks-4.31.0_bef8910cb9f0631106a13e55ff77aece930735a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.8.0_a64c4fd60d6d5aff0d5f4bf7d4695fdf23abc604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_670713ad893056fdce3479bff765c063ad07c73e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_c707d916dad2a20e7f291c4a8e42c393eeb9804c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_eb765a321b501130b841538a422e67b14f13bc85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_dc646a08d91122ac19f1c5e0fa634a6797019918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-login-4.31.0_8379fb23603b91b570a0dd7307a1ffe1061d8566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-messenger-4.31.0_be1ec6228cbad5bb848dd6bd6c05a3a83f2bb649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e3b8ecc558c6deeb90eb3934c1c715128ab26dcd">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-common-4.31.0_97a3ca1ef4fbcfb16f88ea7f8e5518d1ae0b54fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_591d350e88f083913e1aed625f315b0491fcc1e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_6a88efe3b473fe14b87b8319309368bb58b71c67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.8.0_8a0b7e44a81e1d4d74dd2abde3b147a735181a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.0.2_cea66d270a798acfae0f23d019820f5409572ac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.8.0_d02de471cfefab5bd19930fac994b4da691d8ce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.31.0_e4c83bf6a7ee6d28ab1b4415d8213d7f0401fbe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.2_eeb8f76b015a05a265a1d3e346b87cf4ff8c0555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-27.0.2_b1e99503bea311b7dc7edcc0b66310a2281cb5ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.1.0_0ba6e8bfc9a411cb6ea98ef5e9aea922cfe8edc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/common-1.0.3_41244b912a6a2c2641eeb75a5b1487c836d792fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_4af99e94194a3ba052c07de60c4ad27feddf4f2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/core-3.3.0_afef60736b889e3bfc545dac93116a908a2d86fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-27.0.2_9ab2e9ff2df43bce47aa990040878eec39820352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.0.2_2754d8f8815757a9260efe74ebca23dca07b480d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_799b7f9d7b6eea23f7e243899b98537d0aa566c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-share-4.31.0_2a368c508fbb8d6060493317913b9ef7f7288bc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.0.2_c961979371e18ba02967f44039049b6734ef7f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.8.0_477d3abd71fbe3ed7aef1dcb63435ff512fc55bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/home/valentinerutto/Desktop/Let-sChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-27.0.2_27e9d7fb7bf32dea8828ae9be7005e07c5d08a64.jar" />
+    </item>
+
+</items>

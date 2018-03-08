@@ -12,6 +12,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Spinner;
+import android.widget.TextView;
 import android.widget.Toast;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnSuccessListener;
@@ -38,7 +39,8 @@ public class SignUpActivity extends AppCompatActivity implements View.OnClickLis
     private ImageView profilePicImgView;
     private ArrayAdapter<String> adapter;
     private String[] items;
-    private Button signUpBtn,cancelBtn;
+    private Button signUpBtn;
+     private TextView cancelBtn;
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
     private DatabaseReference mDatabase;
@@ -48,7 +50,7 @@ public class SignUpActivity extends AppCompatActivity implements View.OnClickLis
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_sign_up);
+        setContentView(R.layout.layout2);
         userFirstName= (EditText) findViewById(R.id.editTextFirstName);
         userLastName= (EditText) findViewById(R.id.editTextLastName);
         userEmail= (EditText) findViewById(R.id.editTextEmailID);
@@ -56,7 +58,7 @@ public class SignUpActivity extends AppCompatActivity implements View.OnClickLis
         userPassword2= (EditText) findViewById(R.id.editTextPassword2);
         profilePicImgView= (ImageView) findViewById(R.id.imageViewProfilePic);
         signUpBtn= (Button) findViewById(R.id.buttonSignUp);
-        cancelBtn= (Button) findViewById(R.id.buttonCancel);
+        cancelBtn= (TextView) findViewById(R.id.buttonCancel);
         spinner= (Spinner) findViewById(R.id.spinnerGender);
         items =getResources().getStringArray(R.array.gender_list);
         adapter = new ArrayAdapter<String>(getApplicationContext(), R.layout.spinner_layout, items);
@@ -81,8 +83,12 @@ public class SignUpActivity extends AppCompatActivity implements View.OnClickLis
         };
 
         signUpBtn.setOnClickListener(this);
+
         cancelBtn.setOnClickListener(this);
+
+/*
         profilePicImgView.setOnClickListener(this);
+*/
 
     }
 

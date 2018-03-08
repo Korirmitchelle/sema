@@ -63,8 +63,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         FacebookSdk.sdkInitialize(getApplicationContext());
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.layout);
+/*
         googleSignInBtn= (SignInButton) findViewById(R.id.sign_in_button);
+*/
         emailSignIn= (Button) findViewById(R.id.buttonSignIn);
         userEmailText= (EditText) findViewById(R.id.editTextEmail);
         userPasswordText= (EditText) findViewById(R.id.editTextPassword);
@@ -125,7 +127,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 .addApi(Auth.GOOGLE_SIGN_IN_API, gso)
                 .build();
 
+
+/*
         googleSignInBtn.setOnClickListener(this);
+*/
+
         emailSignIn.setOnClickListener(this);
         signUpLink.setOnClickListener(this);
     }

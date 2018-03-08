@@ -84,6 +84,8 @@
 
     <Button
         android:text="@string/btn_update_label"
+        android:background="@color/colorPrimary"
+        android:textColor="#fff"
         android:layout_height="wrap_content"
         android:layout_marginBottom="61dp"
         android:id="@+id/buttonUpdate"
@@ -94,6 +96,8 @@
 
     <Button
         android:text="@string/cancelHint"
+        android:background="@color/colorPrimary"
+        android:textColor="#fff"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/buttonUpdate"

@@ -31,7 +31,15 @@ public class ViewUserProfile extends AppCompatActivity {
             userFName.setText(user.getFirstName());
             userLName.setText(user.getLastName());
             userGender.setText(user.getGender());
-            Picasso.with(ViewUserProfile.this).load(user.getUserPicUrl()).into(userProfilePic);
+            try {
+                Picasso.with(ViewUserProfile.this).load(user.getUserPicUrl()).into(userProfilePic);
+
+
+            }catch (Exception e){
+                Toast.makeText(getApplicationContext(),"What a nice profile pic",Toast.LENGTH_SHORT).show();
+
+
+            }
 
         }else {
             Toast.makeText(getApplicationContext(),"User not Found",Toast.LENGTH_SHORT).show();
