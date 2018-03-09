@@ -152,9 +152,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View v) {
-        if (v.getId()==R.id.sign_in_button){
-            googleSignIn();
-        }else if (v.getId()==R.id.buttonSignIn){
+
+        if (v.getId()==R.id.buttonSignIn){
             signIn(userEmailText.getText().toString(),userPasswordText.getText().toString());
         }else if (v.getId()==R.id.textViewSignUpLink){
             Intent intent=new Intent(MainActivity.this,SignUpActivity.class);
